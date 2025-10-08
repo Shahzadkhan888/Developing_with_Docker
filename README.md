@@ -113,12 +113,7 @@ Your image will now appear in your **AWS ECR repository** and can be deployed to
 - Region: `eu-central-1`
 - Deployment: AWS EC2 (using pulled image from ECR)
 
----
 
-## Screenshots (Optional to Add)
-1. AWS ECR repository showing the pushed image
-2. Terminal output showing successful push
-3. App running in the browser
 
 ---
 
